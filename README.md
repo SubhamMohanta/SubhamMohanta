@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **subhammohanta99@gmail.com**
 
-- ⚡ Fun fact **Bronze 1 is hell in Valorant!**
+- ⚡ Fun fact **Bronze 1 is hell in <img src="https://www.svgrepo.com/show/424912/valorant-logo-play-2.svg"/>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
