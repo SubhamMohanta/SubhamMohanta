@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **subhammohanta99@gmail.com**
 
-- ⚡ Fun fact **Bronze 1 is hell in <img src="https://www.svgrepo.com/show/424912/valorant-logo-play-2.svg](https://www.svgrepo.com/show/424907/valorant-logo-play.svg"/>**
+- ⚡ Fun fact **Bronze 1 is hell in <img src="[https://www.svgrepo.com/show/424912/valorant-logo-play-2.svg](https://www.svgrepo.com/show/424907/valorant-logo-play.svg](https://www.svgrepo.com/show/424907/valorant-logo-play.svg)"/>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
