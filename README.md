@@ -1,11 +1,11 @@
-### Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Subham Mohanta</h1>
-<h3 align="center">A passionate web developer with design skills from India</h3>
+
+<h1>Hi 👋, I'm Subham Mohanta</h1>
+<h3>A passionate web developer with design skills from India</h3>
 
 - 📫 How to reach me **subhammohanta99@gmail.com**
 
-- ⚡ Fun fact **Bronze 1 is hell in <img src="[https://www.svgrepo.com/show/424912/valorant-logo-play-2.svg](https://www.svgrepo.com/show/424907/valorant-logo-play.svg](https://www.svgrepo.com/show/424907/valorant-logo-play.svg)"/>**
+- ⚡ Fun fact **Bronze 1 is hell in Valorant/>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
