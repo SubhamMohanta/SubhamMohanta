@@ -1,7 +1,7 @@
 
 
 <h1>Hi 👋, I'm Subham Mohanta</h1>
-<h3>A passionate web developer with design skills from India</h3>
+<h3>An aspiring web developer with design skills from India</h3>
 
 - 📫 How to reach me **subhammohanta99@gmail.com**
 
