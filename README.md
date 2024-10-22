@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Subham Mohanta</h1>
-<h3 align="center">An aspiring web developer from India</h3>
+<h1 align="left">Hi 👋, I'm Subham Mohanta</h1>
+<h3 align="left">An aspiring web developer from India</h3>
 
 - 🔭 I’m currently working on [U-Serve](https://github.com/kalviumcommunity/U-Serve)
 
