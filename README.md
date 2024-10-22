@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **Next.js,**
 
-- 👨‍💻 All of my projects are available at [subhammohanta.com](subhammohanta.com)
+- 👨‍💻 All of my projects are available [here](subhammohanta.com)
 
-- 📝 I regularly write articles on [https://www.subhammohanta.com/blog](https://www.subhammohanta.com/blog)
+- 📝 I write articles on [sm blogs](https://www.subhammohanta.com/blog)
 
 - 📫 How to reach me **subhammohanta99@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1DrDBV06U-6MdzJ1Nv0Cw8wcuAPSdI5AC3VX6vossR0s/edit?usp=sharing](https://docs.google.com/document/d/1DrDBV06U-6MdzJ1Nv0Cw8wcuAPSdI5AC3VX6vossR0s/edit?usp=sharing)
+- 📄 Know about my experiences [here](https://docs.google.com/document/d/1DrDBV06U-6MdzJ1Nv0Cw8wcuAPSdI5AC3VX6vossR0s/edit?usp=sharing)
 
 - ⚡ Fun fact **I think I am Sinatraa**
 
